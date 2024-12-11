@@ -36,8 +36,7 @@ The following technologies and Python libraries were used in this project:
 - **seaborn**: For data visualization and creating insightful plots.
 - **matplotlib**: For additional plotting and visual representation of data.
 - **TextBlob**: For sentiment analysis of review texts to classify the sentiment.
-- **scikit-learn**: (Optional) For machine learning if future sentiment classification models are applied.
-- **Tableau/Power BI**: (Optional) For creating interactive dashboards and visualizations (if data export to these tools is considered).
+- **scikit-learn**: For machine learning if future sentiment classification models are applied.
 
 ## ***Dataset Overview***
 The dataset used in this project is provided in the `data/` directory and includes the following columns:
